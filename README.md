@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @rajibuli008
-- 👀 I’m interested in Python, data science, data analytics
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
 
 <!---
 rajibuli008/rajibuli008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
